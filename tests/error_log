@@ -1,0 +1,12 @@
+[26-Jun-2024 16:02:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/extrablo/resume.extrablogs.in/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/extrablo/resume.extrablogs.in/tests/TestCase.php on line 7
+[26-Jun-2024 16:02:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/extrablo/resume.extrablogs.in/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/extrablo/resume.extrablogs.in/tests/TestCase.php on line 7
+[26-Jun-2024 16:02:36 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Testing\TestCase" not found in /home/extrablo/resume.extrablogs.in/tests/TestCase.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/extrablo/resume.extrablogs.in/tests/TestCase.php on line 7

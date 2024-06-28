@@ -1,0 +1,32 @@
+[26-Jun-2024 16:02:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/extrablo/resume.extrablogs.in/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/extrablo/resume.extrablogs.in/bootstrap/app.php on line 7
+[26-Jun-2024 16:02:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/extrablo/resume.extrablogs.in/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/extrablo/resume.extrablogs.in/bootstrap/app.php on line 7
+[26-Jun-2024 16:02:30 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/extrablo/resume.extrablogs.in/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/extrablo/resume.extrablogs.in/bootstrap/app.php on line 7
+[26-Jun-2024 16:02:32 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/extrablo/resume.extrablogs.in/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/extrablo/resume.extrablogs.in/bootstrap/app.php on line 7
+[26-Jun-2024 16:04:17 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/extrablo/resume.extrablogs.in/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/extrablo/resume.extrablogs.in/bootstrap/app.php on line 7
+[26-Jun-2024 22:33:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/extrablo/resume.extrablogs.in/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/extrablo/resume.extrablogs.in/bootstrap/app.php on line 7
+[26-Jun-2024 22:33:21 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/extrablo/resume.extrablogs.in/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/extrablo/resume.extrablogs.in/bootstrap/app.php on line 7
+[26-Jun-2024 22:34:12 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Foundation\Application" not found in /home/extrablo/resume.extrablogs.in/bootstrap/app.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/extrablo/resume.extrablogs.in/bootstrap/app.php on line 7
